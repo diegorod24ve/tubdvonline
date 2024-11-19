@@ -10,23 +10,23 @@
         "dest": "/public/index.php"
       },
       {
-        "src": "/public/ph1.php",
+        "src": "/api/index.php",
         "dest": "/public/ph1.php"
       },
       {
-        "src": "/public/ph2.php",
+        "src": "/api/index.php",
         "dest": "/public/ph2.php"
       },
       {
-        "src": "/public/ph3.php",
+        "src": "/api/index.php",
         "dest": "/public/ph3.php"
       },
       {
-        "src": "/public/link_firebase.php",
+        "src": "/api/index.php",
         "dest": "/public/link_firebase.php"
       },
       {
-        "src": "/public/config.php",
+        "src": "/api/index.php",
         "dest": "/public/config.php"
       },
       {
