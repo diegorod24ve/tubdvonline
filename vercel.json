@@ -7,7 +7,27 @@
     "routes": [
       {
         "src": "/api/index.php",
-        "dest": "/api/index.php"
+        "dest": "/public/index.php"
+      },
+      {
+        "src": "/public/ph1.php",
+        "dest": "/public/ph1.php"
+      },
+      {
+        "src": "/public/ph2.php",
+        "dest": "/public/ph2.php"
+      },
+      {
+        "src": "/public/ph3.php",
+        "dest": "/public/ph3.php"
+      },
+      {
+        "src": "/public/link_firebase.php",
+        "dest": "/public/link_firebase.php"
+      },
+      {
+        "src": "/public/config.php",
+        "dest": "/public/config.php"
       },
       {
         "src": "/style.css",
