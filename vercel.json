@@ -7,43 +7,31 @@
     "routes": [
       {
         "src": "/api/index.php",
-        "dest": "/public/index.php"
+        "dest": "/api/index.php"
       },
       {
-        "src": "/api/index.php",
+        "src": "/ph1.php",
         "dest": "/public/ph1.php"
       },
       {
-        "src": "/api/index.php",
+        "src": "/ph2.php",
         "dest": "/public/ph2.php"
       },
       {
-        "src": "/api/index.php",
+        "src": "/ph3.php",
         "dest": "/public/ph3.php"
       },
       {
-        "src": "/api/index.php",
+        "src": "/link_firebase.php",
         "dest": "/public/link_firebase.php"
       },
       {
-        "src": "/api/index.php",
+        "src": "/config.php",
         "dest": "/public/config.php"
       },
       {
         "src": "/style.css",
         "dest": "/public/style.css"
-      },
-      {
-        "src": "/assets/img/(.*).png",
-        "dest": "/public/assets/img/$1"
-      },
-      {
-        "src": "/assets/datas/data.json",
-        "dest": "/public/assets/datas/data.json"
-      },
-      {
-        "src": "/(.*)",
-        "dest": "/api/index.php"
       }
     ]
 }
